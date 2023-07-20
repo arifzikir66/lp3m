@@ -26,6 +26,7 @@ Adapun fitur pada website ini :
 20. CRUD Jenis File
 
 Donasi cuma Rp. 50.000 saja untuk rokok dan kopi hehehe
+
 Jika berminat silahkan pesan lewat email : metatechindustry53@gmail.com
 
 Berikut ini screenshoot tampilan website lembaga
