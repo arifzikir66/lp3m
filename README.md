@@ -1,6 +1,10 @@
 # Lembaga
 Website Lembaga merupakan sebuah website untuk mengelola data-data yang berhubungan dengan perkembangan kampus. Website ini menggunakan bahasa pemograman PHP Native dan MySQL.
 
+Donasi untuk pembuatan source code ini cuma Rp. 50.000 saja untuk rokok dan kopi hehehe
+
+Jika berminat silahkan pesan lewat email : metatechindustry53@gmail.com
+
 Adapun fitur pada website ini :
 
 ----- Fitur -----
@@ -24,10 +28,6 @@ Adapun fitur pada website ini :
 18. CRUD Peraturan Undang-Undang (Perpu)
 19. CRUD Upload File Perpu
 20. CRUD Jenis File
-
-Donasi cuma Rp. 50.000 saja untuk rokok dan kopi hehehe
-
-Jika berminat silahkan pesan lewat email : metatechindustry53@gmail.com
 
 Berikut ini screenshoot tampilan website lembaga
 
