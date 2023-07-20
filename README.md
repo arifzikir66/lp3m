@@ -25,6 +25,9 @@ Adapun fitur pada website ini :
 19. CRUD Upload File Perpu
 20. CRUD Jenis File
 
+Donasi cuma Rp. 50.000 saja untuk rokok dan kopi hehehe
+Jika berminat silahkan pesan lewat email : metatechindustry53@gmail.com
+
 Berikut ini screenshoot tampilan website lembaga
 
 ![tampilan lembaga 1](https://github.com/arifzikir66/website_lembaga/assets/130142801/c67b0984-5006-461a-b988-ea1eef9f8e8d)
